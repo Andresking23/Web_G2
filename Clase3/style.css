@@ -1,12 +1,27 @@
 #caja1{
     background-color: red;
+    height: 100px;
+    width: 100px;
 }
 #caja2{
     background-color: blue;
+    height: 100px;
+    width: 100px;
 }
 #caja3{
     background-color: green;
+    height: 100px;
+    width: 100px;
 }
 #caja4{
     background-color: yellow;
+    height: 100px;
+    width: 100px;
+}
+a{
+    padding: 20px;
+    width: 100px;
+}
+.bordeGrueso{
+    border: 5px solid black;
 }
